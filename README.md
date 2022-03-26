@@ -26,7 +26,9 @@ Create models
 
 Supervised - SVM
 
-Usupervised - K_means clustering and Hierarchical Clustering
+Unsupervised - K_means clustering and Hierarchical Clustering
+
+Make conclusions
 
 # Libraries Used #
 Library(caret)
