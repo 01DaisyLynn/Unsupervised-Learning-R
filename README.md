@@ -8,9 +8,9 @@
 
 # Main Objective #
 
-Supervised Learning -build model which can Identify which individuals are most likely to click on ads
+Supervised Learning(advert) -build model which can Identify which individuals are most likely to click on ads
 
-Unsupervised - build model which can determine customer’s behavior from data collected
+Unsupervised(Kira) - build model which can determine customer’s behavior from data collected
  
 # Setup #
 
